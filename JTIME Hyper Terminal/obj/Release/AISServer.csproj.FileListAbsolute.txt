@@ -1,0 +1,227 @@
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\AISManager.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\AISServer.exe
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\AISServer.exe.config
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Newtonsoft.Json.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Owin.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\System.Web.Cors.dll
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\AISManager.pdb
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\Newtonsoft.Json.xml
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.Properties.Resources.resources
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.CoreCompileInputs.cache
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.CopyComplete
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.exe
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.pdb
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\AISServer.pdb
+D:\Badaro_Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+D:\Badaro_Pilot_Development\AISServer\AISServer\bin\Release\NmeaParser.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISServer.exe.config
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISServer.exe
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISServer.pdb
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISManager.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Newtonsoft.Json.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\NmeaParser.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Owin.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\System.Web.Cors.dll
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISManager.pdb
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Newtonsoft.Json.xml
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.Properties.Resources.resources
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.CopyComplete
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.exe
+D:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.pdb
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISServer.exe.config
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISServer.exe
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISServer.pdb
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISManager.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Newtonsoft.Json.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\NmeaParser.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Owin.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\System.Web.Cors.dll
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\AISManager.pdb
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\bin\Release\Newtonsoft.Json.xml
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.Properties.Resources.resources
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.CoreCompileInputs.cache
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.csproj.CopyComplete
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.exe
+F:\Rian\Project\Processing\울산 도선사협회\Pilot_Development\AISServer\AISServer\obj\Release\AISServer.pdb
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\AISServer.exe.config
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\AISServer.exe
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\AISServer.pdb
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\AISManager.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Newtonsoft.Json.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\NmeaParser.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Owin.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\System.Web.Cors.dll
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\AISManager.pdb
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\bin\Release\Newtonsoft.Json.xml
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.Properties.Resources.resources
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.csproj.CoreCompileInputs.cache
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.csproj.CopyComplete
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.exe
+D:\Badaro_Pilot_Development\DBtoJSON\AISServer\AISServer\obj\Release\AISServer.pdb
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\AISServer.exe.config
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\AISServer.exe
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\AISServer.pdb
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\AISManager.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\NmeaParser.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Owin.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\System.Web.Cors.dll
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\AISManager.pdb
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\AISServer.Properties.Resources.resources
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\AISServer.csproj.CopyComplete
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\AISServer.exe
+C:\Users\rian3665\Desktop\AISServer\AISServer\obj\Release\AISServer.pdb
+D:\AISServer\AISServer\bin\Release\AISServer.exe.config
+D:\AISServer\AISServer\bin\Release\AISServer.exe
+D:\AISServer\AISServer\bin\Release\AISServer.pdb
+D:\AISServer\AISServer\bin\Release\AISManager.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.dll
+D:\AISServer\AISServer\bin\Release\Newtonsoft.Json.dll
+D:\AISServer\AISServer\bin\Release\NmeaParser.dll
+D:\AISServer\AISServer\bin\Release\Owin.dll
+D:\AISServer\AISServer\bin\Release\System.Web.Cors.dll
+D:\AISServer\AISServer\bin\Release\AISManager.pdb
+D:\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+D:\AISServer\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.xml
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+D:\AISServer\AISServer\bin\Release\Microsoft.Owin.Security.xml
+D:\AISServer\AISServer\bin\Release\Newtonsoft.Json.xml
+D:\AISServer\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+D:\AISServer\AISServer\obj\Release\AISServer.Properties.Resources.resources
+D:\AISServer\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+D:\AISServer\AISServer\obj\Release\AISServer.csproj.CopyComplete
+D:\AISServer\AISServer\obj\Release\AISServer.exe
+D:\AISServer\AISServer\obj\Release\AISServer.pdb
+D:\AISServer\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\AISServer.csprojAssemblyReference.cache
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\WinFormsServer.FrmServer.resources
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\AISServer.Properties.Resources.resources
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\AISServer.csproj.GenerateResource.cache
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\AISServer.exe
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\AISServer.pdb
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\AISServer.exe.config
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\AISServer.exe
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\AISServer.pdb
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\AISManager.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\NmeaParser.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Owin.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\System.Web.Cors.dll
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\AISManager.pdb
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\rian3665\Desktop\AISServer_test\AISServer\obj\Release\AISServer.csproj.CopyComplete

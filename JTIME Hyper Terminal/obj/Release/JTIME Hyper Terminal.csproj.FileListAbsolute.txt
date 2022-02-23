@@ -1,0 +1,54 @@
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\JMarine_Time_Terminal.exe.config
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\JMarine_Time_Terminal.exe
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\JMarine_Time_Terminal.pdb
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Google.Protobuf.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Cors.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Diagnostics.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Hosting.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\MySql.Data.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Newtonsoft.Json.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\NmeaParser.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Owin.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Buffers.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Memory.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Web.Cors.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Zstandard.Net.dll
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\C1.Win.C1Command.4.5.2.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\C1.Win.C1Input.4.5.2.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Google.Protobuf.pdb
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Google.Protobuf.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Cors.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Diagnostics.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Hosting.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Microsoft.Owin.Security.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\MySql.Data.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\Newtonsoft.Json.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Buffers.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Memory.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JTIME Hyper Terminal.csproj.AssemblyReference.cache
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JTIME Hyper Terminal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\WinFormsServer.FrmServer.resources
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JMarine_Time_Terminal.Properties.Resources.resources
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JTIME Hyper Terminal.csproj.GenerateResource.cache
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JTIME Hyper Terminal.csproj.CoreCompileInputs.cache
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JTIME Hyper Terminal.csproj.CopyComplete
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JMarine_Time_Terminal.exe
+C:\Users\jmh20\OneDrive\바탕 화면\AIS_Terminal\Rian Hyper Terminal\obj\Release\JMarine_Time_Terminal.pdb

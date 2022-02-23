@@ -1,0 +1,36 @@
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Rian_Terminal.exe.config
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Rian_Terminal.exe
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Rian_Terminal.pdb
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\C1.Win.C1Input.4.5.2.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\NmeaParser.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Owin.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\System.Web.Cors.dll
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\C1.Win.C1Input.4.5.2.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian Hyper Terminal.csprojAssemblyReference.cache
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\WinFormsServer.FrmServer.resources
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian_Terminal.Properties.Resources.resources
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian Hyper Terminal.csproj.GenerateResource.cache
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian Hyper Terminal.csproj.CoreCompileInputs.cache
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian Hyper Terminal.csproj.CopyComplete
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian_Terminal.exe
+C:\Users\rian3665\Desktop\RianTerminal\Rian Hyper Terminal\obj\Debug\Rian_Terminal.pdb

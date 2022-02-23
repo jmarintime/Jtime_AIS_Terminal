@@ -1,0 +1,126 @@
+﻿<Window x:Class="AISServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AISServer"
+        mc:Ignorable="d"
+        Title="AISServer" Height="568.518" Width="456.297" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closed="AISServer_Closed" Loaded="AISServer_Loaded" ContentRendered="MainWin_ContentRendered">
+    <Window.Resources>
+        <Style TargetType="Button" x:Key="ButtonStyle">
+            <Style.Resources>
+                <Style TargetType="Image">
+                    <Style.Triggers>
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter Property="Opacity" Value="0.5" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Style.Resources>
+            <Setter Property="OverridesDefaultStyle" Value="True" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter x:Name="MyContentPresenter" 
+                                          Content="{TemplateBinding Content}"
+                                          HorizontalAlignment="Center" 
+                                          VerticalAlignment="Center" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#FF070925" >
+        <Label x:Name="txtLoding" Content="프로그램 Loading 중...." HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="20" FontWeight="Bold"/>
+        
+        <TabControl x:Name="tabMainControl" HorizontalAlignment="Left" Height="474" Margin="20,47,0,0" VerticalAlignment="Top" Width="408" Background="#FF070925" BorderBrush="#FF3195D3" BorderThickness="5">
+            <TabItem Header="연결 설정" BorderBrush="{x:Null}" Background="#FF3195D3">
+                <Grid Background="{x:Null}">
+
+                    <Label Content="네트워크 설정" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20" />
+                    <Canvas Margin="11,42,-1,305" >
+                        <Label Content="ServerIP :" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"  Foreground="White" Canvas.Left="23" Canvas.Top="15"/>
+                        <TextBox x:Name="txtServerIP" Text="http://127.0.0.1" Canvas.Left="110" Canvas.Top="11" Width="170" Height="26" FontSize="15" />
+                        <Label Content="ServerPort :" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"  Foreground="White" Canvas.Left="7" Canvas.Top="55"/>
+                        <TextBox x:Name="txtServerPort" Text="5000" Canvas.Left="110" Canvas.Top="55" Width="170" Height="26" FontSize="15" />
+                    </Canvas>
+                    <Button x:Name="btnStartServer" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="87" Height="41" Canvas.Left="284" Canvas.Top="95" 
+                            Margin="179,142,0,0" Click="BtnStartServer_Click" Background="{x:Null}" BorderBrush="{x:Null}" Style="{StaticResource ButtonStyle}">
+                        <Image Source="Resources\btn_connect.png"></Image>
+                    </Button>
+                    <Button x:Name="btnStopServer" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="87" Height="41" Canvas.Left="284" Canvas.Top="95" 
+                            Margin="296,142,0,0" Click="BtnStopServer_Click" Background="{x:Null}" BorderBrush="{x:Null}" IsEnabled="False" Style="{StaticResource ButtonStyle}">
+                        <Image Source="Resources\btn_stop.png"></Image>
+                    </Button>
+                    <Label Content="Serial Port 설정" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+                    <Canvas Background="{x:Null}" Margin="10,233,11,125">
+                        <Label Content="Port :" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" Foreground="White" Height="31" Width="50" Canvas.Left="42" Canvas.Top="10"/>
+                        <ComboBox x:Name="cmbPort" Canvas.Left="108" Canvas.Top="19" Width="170" />
+                        <Label Content="BaudRate :" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"  Foreground="White" Canvas.Left="9" Canvas.Top="41"/>
+                        <ComboBox x:Name="cmbBaudRate" Canvas.Left="108" Canvas.Top="54" Width="170"  />
+                    </Canvas>
+                    <Button x:Name="btnConnectSerialPort" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="87" Height="41" Canvas.Left="284" Canvas.Top="95" 
+                            Margin="179,329,0,0" Click="BtnConnectSerialPort_Click" Background="{x:Null}" BorderBrush="{x:Null}" Style="{StaticResource ButtonStyle}">
+                        <Image Source="Resources\btn_connect.png"></Image>
+                    </Button>
+                    <Button x:Name="btnDisconnectSerialPort" HorizontalAlignment="Left" VerticalAlignment="Top" Width="87" Height="41" Canvas.Left="284" Canvas.Top="95" 
+                            Margin="296,329,0,0" Click="BtnDisconnectSerialPort_Click" IsEnabled="False" Background="{x:Null}" BorderBrush="{x:Null}" Style="{StaticResource ButtonStyle}">
+                        <Image Source="Resources\btn_stop.png"></Image>
+                    </Button>
+                    <TextBox x:Name="tbxReceivedMessage" HorizontalAlignment="Left" Margin="11,388,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="32" Width="372" Background="White"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="DB 연결" BorderBrush="{x:Null}" Background="#FF3195D3">
+                <Grid Background="{x:Null}">
+                    <Label Content="데이터베이스 설정" HorizontalAlignment="Left" Margin="11,10,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+                    <Canvas Background="{x:Null}" Margin="11,39,37,271">
+                        <Label Content="이름 :" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="15" Foreground="White" Height="31" Width="50" Canvas.Left="40" Canvas.Top="10" RenderTransformOrigin="0.567,0.548"/>
+                        <Label Content="ID :" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"  Foreground="White" Canvas.Left="57" Canvas.Top="50"/>
+                        <Label Content="PW :" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="15"  Foreground="White" Canvas.Left="49" Canvas.Top="88"/>
+                        <TextBox  x:Name="txtDBName"  Text="dbname" Canvas.Left="108" Canvas.Top="15" Width="170" Height="26" FontSize="15"  />
+                        <TextBox x:Name="txtDBID" Text="dbID" Canvas.Left="108" Canvas.Top="50" Width="170" Height="26" FontSize="15"  />
+                        <TextBox x:Name="txtDBPW" Text="dbPW" Canvas.Left="109" Canvas.Top="88" Width="170" Height="26" FontSize="15" />
+                    </Canvas>
+
+                    <Button x:Name="btnDBServer" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="87" Height="41" Canvas.Left="284" Canvas.Top="95" 
+                            Margin="288,167,0,0" Click="BtnSaved_Click" Background="{x:Null}" BorderBrush="{x:Null}" Style="{StaticResource ButtonStyle}">
+                        <Image Source="Resources\btn_save.png"></Image>
+                    </Button>
+
+                    <Label Content="더존DB" HorizontalAlignment="Left" Margin="12,224,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+                    <TextBox x:Name="tbxTheZoneMessage" HorizontalAlignment="Left" Margin="12,266,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="32" Width="372" Background="White"/>
+
+                    <Label Content="Server PortMIS DB" HorizontalAlignment="Left" Margin="11,309,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+                    <TextBox x:Name="tbxPortMISMessage" HorizontalAlignment="Left" Margin="11,351,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="32" Width="372" Background="White"/>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Client List" BorderBrush="{x:Null}" Background="#FF3195D3" >
+                <Grid Background="{x:Null}">
+                    <Label Content="Client List" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20" Height="37" Width="120"/>
+                    <ListView x:Name="ListViewClient" HorizontalAlignment="Left" VerticalAlignment="Top" Height="381" Width="374" Margin="10,47,0,0">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Client ID" Width="180" DisplayMemberBinding="{Binding Name}"/>
+                                <GridViewColumn Header="State" Width="180" DisplayMemberBinding="{Binding IsConnected}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Log" BorderBrush="{x:Null}" Background="#FF3195D3" >
+                <Grid Background="{x:Null}">
+                    <Label Content="Log" HorizontalAlignment="Left" Margin="10,9,0,0" VerticalAlignment="Top" Foreground="White" FontSize="20" Height="37" Width="120"/>
+                    <TextBox x:Name="tbxLog" HorizontalAlignment="Left" VerticalAlignment="Top" Height="376" Width="374" Margin="10,52,0,0" TextWrapping="Wrap"
+                             ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button  HorizontalAlignment="Left" Margin="335,10,0,0" VerticalAlignment="Top" Width="93" Height="37" Click="BtnClose_Click" Background="{x:Null}" BorderBrush="{x:Null}">
+            <Image Source="Resources\btn_close.png"></Image>
+        </Button>
+    </Grid>
+</Window>

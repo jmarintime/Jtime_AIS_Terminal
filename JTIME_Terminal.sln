@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTIME Hyper Terminal", "JTIME Hyper Terminal\JTIME Hyper Terminal.csproj", "{5F754EF2-5AFD-4E4C-B554-A804568DEED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F754EF2-5AFD-4E4C-B554-A804568DEED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F754EF2-5AFD-4E4C-B554-A804568DEED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F754EF2-5AFD-4E4C-B554-A804568DEED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F754EF2-5AFD-4E4C-B554-A804568DEED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717244E9-51A6-47A5-A071-31B34A942D48}
+	EndGlobalSection
+EndGlobal
